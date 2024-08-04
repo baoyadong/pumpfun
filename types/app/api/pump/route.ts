@@ -1,4 +1,4 @@
-// File: /Users/xuzhudong/Desktop/pumpfun-main/app/api/pump/route.ts
+// File: /Users/xuzhudong/Desktop/pumpfun/app/api/pump/route.ts
 import * as entry from '../../../../../app/api/pump/route.js'
 import type { NextRequest } from 'next/server.js'
 

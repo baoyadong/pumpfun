@@ -1,4 +1,4 @@
-// File: /Users/xuzhudong/Desktop/pumpfun-main/app/page.tsx
+// File: /Users/xuzhudong/Desktop/pumpfun/app/page.tsx
 import * as entry from '../../../app/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
