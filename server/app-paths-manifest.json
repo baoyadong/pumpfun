@@ -1,7 +1,7 @@
 {
   "/_not-found/page": "app/_not-found/page.js",
-  "/api/pump/[address]/route": "app/api/pump/[address]/route.js",
   "/api/pump/route": "app/api/pump/route.js",
+  "/api/pump/[address]/route": "app/api/pump/[address]/route.js",
   "/~offline/page": "app/~offline/page.js",
   "/page": "app/page.js"
 }
