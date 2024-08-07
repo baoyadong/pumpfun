@@ -97,7 +97,9 @@ export default function Detail() {
           />
           <Stack ml={1}>
             <Typography variant="h5">{coin.name}</Typography>
-            <Typography variant="caption">{coin.address}</Typography>
+            <Typography variant="caption">
+              <a href={`https://solscan.io/token/${coin.address}`} target="_blank" >{coin.address}</a> 
+            </Typography>
           </Stack>
         </Stack>
 
