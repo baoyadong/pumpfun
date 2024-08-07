@@ -14,6 +14,4 @@ const withSerwist = withSerwistInit({
   additionalPrecacheEntries: [{ url: "/~offline", revision }],
 });
 
-export default withSerwist({
-  assetPrefix: isProd ? "/pumpfun" : undefined
-});
+export default withSerwist();
