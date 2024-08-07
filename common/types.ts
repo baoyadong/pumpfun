@@ -27,7 +27,7 @@ export interface PumpCoin {
   metadata_uri: string
   name: string
   open_timestamp: number
-  price: number
+  price: string
   price_change_percent1m: number
   price_change_percent5m: number
   progress: number
